@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 
+#Steps
 #STEP 1: DATA READING
 
 df = pd.read_csv("images_analyzed_productivity1.csv")
